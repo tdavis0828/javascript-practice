@@ -12,3 +12,5 @@ console.log(12);
 console.log(typeof 12);
 console.log(number);
 console.log(typeof number);
+
+// this is a test for the day02 branch in the repo
